@@ -1,0 +1,24 @@
+{
+  "name": "internship_olcademy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbhat2909/internship_olcademy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbhat2909/internship_olcademy/issues"
+  },
+  "homepage": "https://github.com/sbhat2909/internship_olcademy#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.0"
+  }
+}
